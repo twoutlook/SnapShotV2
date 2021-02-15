@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SnapShotV2/static/css/main.d03163bd.chunk.css",
-    "main.js": "/SnapShotV2/static/js/main.2f5a1978.chunk.js",
-    "main.js.map": "/SnapShotV2/static/js/main.2f5a1978.chunk.js.map",
+    "main.js": "/SnapShotV2/static/js/main.c9863b79.chunk.js",
+    "main.js.map": "/SnapShotV2/static/js/main.c9863b79.chunk.js.map",
     "runtime-main.js": "/SnapShotV2/static/js/runtime-main.ac021171.js",
     "runtime-main.js.map": "/SnapShotV2/static/js/runtime-main.ac021171.js.map",
     "static/js/2.c619e43e.chunk.js": "/SnapShotV2/static/js/2.c619e43e.chunk.js",
     "static/js/2.c619e43e.chunk.js.map": "/SnapShotV2/static/js/2.c619e43e.chunk.js.map",
     "index.html": "/SnapShotV2/index.html",
-    "precache-manifest.cc3a8a417a3fd9ce5c50f967f678c1a1.js": "/SnapShotV2/precache-manifest.cc3a8a417a3fd9ce5c50f967f678c1a1.js",
+    "precache-manifest.09c4e2129c91b5cc0db1de86b1304b95.js": "/SnapShotV2/precache-manifest.09c4e2129c91b5cc0db1de86b1304b95.js",
     "service-worker.js": "/SnapShotV2/service-worker.js",
     "static/css/main.d03163bd.chunk.css.map": "/SnapShotV2/static/css/main.d03163bd.chunk.css.map",
     "static/js/2.c619e43e.chunk.js.LICENSE.txt": "/SnapShotV2/static/js/2.c619e43e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ac021171.js",
     "static/js/2.c619e43e.chunk.js",
     "static/css/main.d03163bd.chunk.css",
-    "static/js/main.2f5a1978.chunk.js"
+    "static/js/main.c9863b79.chunk.js"
   ]
 }
